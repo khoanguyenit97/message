@@ -15,8 +15,8 @@ import $ from 'jquery';
 window.jQuery = $;
 window.$ = $;
 import './layouts/navigation'
-
-
+// import './chatroom/index'
+import '../channels/chatroom_channel'
 
 Rails.start()
 Turbolinks.start()
