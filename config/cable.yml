@@ -6,5 +6,5 @@ test:
 
 production:
   adapter: redis
-  url: redis://redistogo:09f670fce514a470cb027db756f5ccd3@barb.redistogo.com:10293/
+  url: redis://redistogo:c0a89075c9fb3a63580fc8c0fe4b845b@crestfish.redistogo.com:9466/
   channel_prefix: message_production
